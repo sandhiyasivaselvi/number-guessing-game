@@ -3,7 +3,7 @@
 **Overview :**
            A fun and interactive game where the system secretly selects a number between 1 and 100. The player must identify the correct number using hints provided after each attempt.
 
-****Key Features **:****
+**Key Features **:****
            Randomly selects a number every time a new game starts.
            Simple input field for entering guesses.
            Provides instant feedback for each guess.
