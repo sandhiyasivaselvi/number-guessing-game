@@ -1,28 +1,27 @@
-Number Guessing Game
+**Number Guessing Game**
 
-Description :
-The Number Guessing Game is a simple Python application where the computer randomly selects a number within a specified range, and the player attempts to guess it. The game provides hints after each guess and challenges the player to find the correct number within a limited number of attempts.
+**Overview :**
+           A fun and interactive game where the system secretly selects a number between 1 and 100. The player must identify the correct number using hints provided after each attempt.
 
-Features :
+****Key Features **:****
+           Randomly selects a number every time a new game starts.
+           Simple input field for entering guesses.
+           Provides instant feedback for each guess.
+           Indicates whether the entered number is greater or smaller than the target number.
+           Restricts the player to a fixed number of attempts.
+           Displays a success message when the correct number is found.
+           Shows a failure message when all attempts are exhausted.
+           Tracks the remaining chances available to the player.
+           Includes a restart option for beginning a fresh game.
+           Easy-to-use graphical interface.
 
-Randomly generates a number at the start of each game.
-Accepts user input through a graphical interface.
-Provides hints such as "Too High" or "Too Low" after every guess.
-Limits the number of attempts available to the player.
-Displays a success message when the correct number is guessed.
-Shows a game-over message when all attempts are used.
-Tracks the remaining number of attempts.
-Includes a Reset button to start a new game instantly.
-Simple and user-friendly interface for easy gameplay.
-Helps improve logical thinking and decision-making skills.
+**Tools & Technologies :**
 
-Technologies :
+           • Python
+           • Tkinter (GUI)
+           • Random Module
 
-Python
-Tkinter (GUI)
-Random Module
-
-How To Run The Code :
-
-Ensure Python is installed on your system.
-Download or clone the project files.
+**Execution Steps :**
+          Install Python on your computer if it is not already installed.
+          Obtain the project files by downloading or cloning the repository.
+          Launch Command Prompt or Terminal.
